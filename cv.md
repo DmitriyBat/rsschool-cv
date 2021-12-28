@@ -1,4 +1,5 @@
-# Dmitriy Batyushkov 
+# Dmitriy Batyushkov                                     ![image](https://user-images.githubusercontent.com/96118413/147548918-5ec1241c-78af-4235-8563-5ba85f460282.png)
+
 ### rsschool student
 
 **************
